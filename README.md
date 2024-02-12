@@ -7,16 +7,14 @@
     I GIGACHAD: It's not a bug, it's an undocumented feature.
 -->
 
-### Hi there 👋
+### 👋 Hello World, Alucad0 here 
 
 <!-- gör något roligt med att jag kan flera språk: python, golang, rust, asmebly, c, c++, c#, java, ruby, SQL, ASM mm-->
-<!-- jag är familjär med flera program: VScode, Github, Windows, Obuntu, google drive-->
-<!-- jag håller på att bli bättre inom photoshop, afftereffects, premier pro-->
+<!-- jag är familjär med flera program: VScode, Github, Windows, Linux (Kubuntu) -->
+<!-- jag håller på att bli bättre inom photoshop, afftereffects, premier pro -->
 
 - 🔭 I’m currently working on graduating at KTH (computer science).
 - 🌱 I’m currently learning about computer science.
-- 👯 I’m looking to collaborate on pretty much anything.
-- 💬 Ask me about ...
 - 📫 How to reach me: email: magnev@kth.se
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucad0&layout=compact)
