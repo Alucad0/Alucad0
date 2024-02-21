@@ -1,6 +1,8 @@
 <!-- Author: Alucad0 -->
 
-<!-- Adobe afteraffects banner, joke on the right side-->
+<!-- future projects
+        image to password generator
+-->
 
 <!-- giga chad animated meme:
     you see a bug. 
