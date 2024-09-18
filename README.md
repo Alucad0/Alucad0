@@ -1,10 +1,5 @@
 <!-- Author: Alucad0 -->
 
-<!-- future projects
-        image to password generator
-        [algorithm visualizer & bit torrent](https://github.com/codecrafters-io/build-your-own-x)
--->
-
 <!-- giga chad animated meme:
     you see a bug. 
     I GIGACHAD: It's not a bug, it's an undocumented feature.
