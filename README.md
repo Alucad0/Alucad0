@@ -11,10 +11,10 @@
 <!-- jag är familjär med flera program: VScode, Github, Windows, Linux (Kubuntu) -->
 <!-- jag håller på att bli bättre inom photoshop, afftereffects, premier pro -->
 
-- 🌱 I am a 21-year-old university student from Sweden. 
+- 🌱 I am a 22-year-old university student from Sweden. 
 - 🔭 I’m working on getting my bachelor's and master's degrees in computer science from KTH (Royal Technical Institute).
 - 🎓 I’m currently learning everything there is to know about computer science.
-- 📫 How to reach me: email: magnev@kth.se
+- 📫 How to reach me, email: magnev@kth.se
 
 <a href="Github stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alucad0&include_commits=true&theme=transparent&rank_icon=github" />
